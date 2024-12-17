@@ -6,8 +6,8 @@ const nextConfig = {
     unoptimized: true,
   },
   env: {
-    OWNER: process.env.OWNER,
-    REPO: process.env.REPO,
+    OWNER: luckypoem,
+    REPO: gossip,
     LABELS: 'published',
 
     // config
